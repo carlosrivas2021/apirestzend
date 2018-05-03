@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/mnt/www/ZendApp/.zfproject.xml</file>
+            <file>file:/mnt/www/ZendApp/application/models/Hola.php</file>
+            <file>file:/mnt/www/ZendApp/application/controllers/AlbumController.php</file>
+            <file>file:/mnt/www/ZendApp/application/configs/application.ini</file>
+            <file>file:/mnt/www/ZendApp/application/controllers/HolaController.php</file>
+            <file>file:/mnt/www/ZendApp/application/forms/Album.php</file>
+            <file>file:/mnt/www/ZendApp/application/views/scripts/hola/index.phtml</file>
+            <file>file:/mnt/www/ZendApp/application/views/scripts/album/index.phtml</file>
+            <file>file:/mnt/www/ZendApp/application/models/DbTable/Album.php</file>
+            <file>file:/mnt/www/ZendApp/application/controllers/IndexController.php</file>
+        </group>
+    </open-files>
+</project-private>
